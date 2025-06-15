@@ -1,7 +1,5 @@
 ### What is javascript and the main role in web development ?
 
-Halo halo halo
-
 ### What is frontend and backend development ?
 
 ### What is React and what is the problem that React is trying to solve?
