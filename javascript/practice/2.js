@@ -17,3 +17,16 @@ function reverseString(input) {
 }
 
 console.log(reverseString("hai"));
+
+function reverseStringWithoutReverse(input) {
+  array = input.split("");
+  string = "";
+
+  for (let i = array.length - 1; i >= 0; i--) {
+    string += array[i];
+  }
+
+  return string;
+}
+
+console.log(reverseStringWithoutReverse("atozdebug"));
